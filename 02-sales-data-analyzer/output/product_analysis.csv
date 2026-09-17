@@ -1,0 +1,5 @@
+product,total_quantity,average_price,total_sales
+Laptop,6,60000.0,360000
+Monitor,3,12000.0,36000
+Mouse,23,800.0,18400
+Keyboard,8,1500.0,12000

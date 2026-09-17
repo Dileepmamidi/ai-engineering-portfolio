@@ -1,0 +1,11 @@
+date,product,quantity,price,city
+2026-01-01,Laptop,2,60000,Hyderabad
+2026-01-01,Mouse,5,800,Delhi
+2026-01-02,Keyboard,3,1500,Mumbai
+2026-01-02,Monitor,2,12000,Hyderabad
+2026-01-03,Laptop,1,60000,Chennai
+2026-01-03,Mouse,10,800,Delhi
+2026-01-04,Keyboard,5,1500,Mumbai
+2026-01-04,Monitor,1,12000,Chennai
+2026-01-05,Laptop,3,60000,Hyderabad
+2026-01-05,Mouse,8,800,Mumbai
